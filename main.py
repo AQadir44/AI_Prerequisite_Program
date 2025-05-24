@@ -1,3 +1,11 @@
+# import utils.add  as ua
+# ua.addition(4,5)
+
+from utils.add import addition
+first_add = addition(5,6)
+
+print(first_add)
+
 print("This file needs to push on GitHUb")
 print("aqsa")
 
